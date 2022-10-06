@@ -1,4 +1,4 @@
-# realtime-object-detection-example
+# Real-time Object Detection
 
 ![alt text](https://user-images.githubusercontent.com/21292956/194244427-83bc786f-48ba-4d0b-a5e0-2a4ab845734c.png)
 
